@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ToDoDy</string>
+    <string name="no">No</string>
+    <string name="reminder">Reminder</string>
+    <string name="cancel">CANCEL</string>
+    <string name="done">DONE</string>
+    <string name="today">Today</string>
+    <string name="_3_days_latter">3 Days Latter</string>
+    <string name="time">Time</string>
+    <string name="input_the_sub_title">Input the sub-title</string>
+    <string name="i_am_going_to">I am going to...</string>
+    <string name="other">Other</string>
+    <string name="new_category">New Category</string>
+    <string name="no_tasks_on_the_day_n_click_to_cteate_your_task">No tasks on the day. \n Click + to cteate your task.</string>
+    <string name="add_sub_task">Add Sub-Task</string>
+    <string name="no_tasks_for_today">No tasks for today</string>
+    <string name="no_tasks_for_the_other_days">No tasks for the other days</string>
+    <string name="create_new_category">Create new category</string>
+    <string name="input_here">input here</string>
+    <string name="save">SAVE</string>
+    <string name="date_and_reminder">Date and Reminder</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="pending_tasks">Pending Tasks</string>
+    <string name="no_reminder">No Reminder</string>
+</resources>
